@@ -1,4 +1,8 @@
 calvo cabron
 queso judio
 jabon judio
+<<<<<<< HEAD
 tiro al niño y al conserje
+=======
+tiro al niño y al conserje
+>>>>>>> c3f05c9a95619cf7023c1dc664ff8b6f6235cd5a

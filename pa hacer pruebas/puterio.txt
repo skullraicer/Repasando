@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 me comi a un perro asado estilo chino y semen
   
+=======
+me comi a un perro asado estilo chino
+>>>>>>> c3f05c9a95619cf7023c1dc664ff8b6f6235cd5a
